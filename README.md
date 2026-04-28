@@ -17,7 +17,7 @@ The goal was to analyze sales performance, identify trends, and create an intera
 - Regional performance analysis
 
 ## Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](sales_analysis/dashboard.png)
 
 ## Files
 - raw dataset - my own data
