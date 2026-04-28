@@ -20,5 +20,5 @@ The goal was to analyze sales performance, identify trends, and create an intera
 ![Dashboard](images/dashboard_preview.png)
 
 ## Files
-- sales_data.csv – raw dataset
-- sales_dashboard.xlsx – final analysis & dashboard
+- raw dataset - my own data
+- sales_analysis.xlsx – final analysis & dashboard
